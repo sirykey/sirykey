@@ -26,7 +26,10 @@
 
 - Десктопный чат на React/Redux [Код](https://github.com/sirykey/chat-react) | [Demo](https://app-messeger.herokuapp.com/)
 
+### Мои аккаунты: 
+-Мой gitlab аккаунт: https://gitlab.com/sirykey
 
+-instagram: https://www.instagram.com/dudewiththestone/
 
 ### Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/sirikey)
