@@ -25,6 +25,8 @@
 - Smm - блокнот React/Redux [Код](https://github.com/sirykey/SMM-agency) | [Demo](http://aqueous-hamlet-92956.herokuapp.com/)
 
 - Десктопный чат на React/Redux [Код](https://github.com/sirykey/chat-react) | [Demo](https://app-messeger.herokuapp.com/)
+- c 06.2021 по 08.2021 полностью закончил Front-end часть (на библиотеке React) DeFi-фонда Modern Strategies (который недавно к сожалению прекратил свою работу)
+- с 09.2021 начал работу над новым проектом на фреймворке Angular 
 
 ### Мои аккаунты: 
 -Мой gitlab аккаунт: https://gitlab.com/sirykey
